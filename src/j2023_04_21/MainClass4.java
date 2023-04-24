@@ -8,6 +8,8 @@ public class MainClass4 {
 		recH1.height = 20;
 		recH1.printArea1();
 		
+		Sadari sadari = new Sadari();
+		
 		TriangleH triH1 = new TriangleH();
 		triH1.width = 10;
 		triH1.height = 20;
